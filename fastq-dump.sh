@@ -1,28 +1,28 @@
-fastq-dump SRR035678
-fastq-dump SRR037439
-fastq-dump SRR037440
-fastq-dump SRR037441
-fastq-dump SRR037442
-fastq-dump SRR037443
-fastq-dump SRR037444
-fastq-dump SRR037445
-fastq-dump SRR037446
-fastq-dump SRR037447
-fastq-dump SRR037448
-fastq-dump SRR037449
-fastq-dump SRR037450
-fastq-dump SRR037451
-fastq-dump SRR037466
-fastq-dump SRR037467
-fastq-dump SRR037468
-fastq-dump SRR037469
-fastq-dump SRR037470
-fastq-dump SRR037471
-fastq-dump SRR037472
-fastq-dump SRR037473
-fastq-dump SRR037474
-fastq-dump SRR037475
-fastq-dump SRR037476
-fastq-dump SRR037477
-fastq-dump SRR037478
-fastq-dump SRR037479
+fastq-dump -O exp2 SRR035678
+fastq-dump -O exp2 SRR037439
+fastq-dump -O exp2 SRR037440
+fastq-dump -O exp2 SRR037441
+fastq-dump -O exp2 SRR037442
+fastq-dump -O exp2 SRR037443
+fastq-dump -O exp2 SRR037444
+fastq-dump -O exp2 SRR037445
+fastq-dump -O exp2 SRR037446
+fastq-dump -O exp2 SRR037447
+fastq-dump -O exp2 SRR037448
+fastq-dump -O exp2 SRR037449
+fastq-dump -O exp2 SRR037450
+fastq-dump -O exp2 SRR037451
+fastq-dump -O exp3 SRR037466
+fastq-dump -O exp3 SRR037467
+fastq-dump -O exp3 SRR037468
+fastq-dump -O exp3 SRR037469
+fastq-dump -O exp3 SRR037470
+fastq-dump -O exp3 SRR037471
+fastq-dump -O exp3 SRR037472
+fastq-dump -O exp3 SRR037473
+fastq-dump -O exp3 SRR037474
+fastq-dump -O exp3 SRR037475
+fastq-dump -O exp3 SRR037476
+fastq-dump -O exp3 SRR037477
+fastq-dump -O exp3 SRR037478
+fastq-dump -O exp3 SRR037479
