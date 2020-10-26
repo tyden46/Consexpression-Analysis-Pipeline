@@ -1,0 +1,22 @@
+#======== CONFIGURATION FILE
+#======== EXPERIMENT
+NAME: MAQC_Analysis
+REPLIC: 14
+GROUP_NUMBER: 2
+GROUP_NAMES: exp1,exp2
+REFERENCE_GENOME: /GWSPH/home/tyden46/consExpression/consexpression/GRCh3    7.p13.genome.fa
+#========= FILE PATH
+READS_DIRECTORY: /GWSPH/home/tyden46/consExpression/consexpression
+GROUP_DIRECTORIES: exp2,exp3
+#group1,group2
+#========= SEQUENCING
+PAIRED_END: False
+#========== MAPPING
+THREADS: 20
+#========= COUNT MAPPING
+# Mode options: [union, intersection-strict, intersection-nonempty]
+MODE: union
+ANOTATION_FILE: /GWSPH/home/tyden46/consExpression/consexpression/GCF_000    001405.25_GRCh37.p13_genomic.gtf
+#ANOTATION_TYPE: gtf
+#========= OUTPUT
+OUTPUT: /GWSPH/home/tyden46/consExpression/output
